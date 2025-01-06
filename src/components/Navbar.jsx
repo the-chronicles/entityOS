@@ -5,7 +5,7 @@ function Navbar() {
         <a href="" className="font-bold">entityOS</a>
 
         <div>
-          <img src="/logo.png" alt="logo" />
+          <img src="/logo.svg" alt="logo" />
         </div>
 
         <a href="" className="rounded-lg bg-[#20232D] px-3 py-2 text-white">
