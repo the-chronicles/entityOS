@@ -16,7 +16,7 @@ function Components() {
           <p className="text-muted-foreground text-xl">
             Quickly implement robust user management features by integrating our
             flexible components:{" "}
-            <code className="text-purple-500">&lt;SignIn/&gt;</code>,{" "}
+            <code className="text-purple-500">&lt;SignIn/&gt;</code>,
             <code className="text-purple-500">&lt;SignUp/&gt;</code>,{" "}
             <code className="text-purple-500">&lt;UserButton/&gt;</code>, and{" "}
             <code className="text-purple-500">&lt;UserProfile/&gt;</code>.
